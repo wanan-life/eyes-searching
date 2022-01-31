@@ -16,6 +16,8 @@
 ```
 python3 searching.py -h   #你就可以看到详细使用方法了。
 ```
+![image](https://user-images.githubusercontent.com/96983791/151762077-23d977a9-edb1-497f-bbce-f8b4d6d2eb00.png)
+
 ---
 **好了，该说的我都说了，看你如何选择了。**
 
